@@ -6,4 +6,4 @@
 - 例：flarum/approval
 
 ### 内容格式
-请参照 [模板文件](template.md)。
+请参照 [模板文件](.TEMPLATE.md)。
