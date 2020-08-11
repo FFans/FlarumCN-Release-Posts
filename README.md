@@ -16,8 +16,8 @@
 
 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Akismet](http://iflarum.cn/1527) | ✅ | [Approval](https://github.com/flarum/approval) | ✅ | [Emoji](https://github.com/flarum/emoji) |  | [Facebook Login](https://github.com/flarum/auth-facebook) |  |
-| [Flags](https://github.com/flarum/flags) |  | [GitHub Login](https://github.com/flarum/auth-github) |  | [Likes](https://github.com/flarum/likes) |  | [Lock](https://github.com/flarum/lock) |  |
+| [Akismet](https://github.com/flarum/akismet) | ✅ | [Approval](https://github.com/flarum/approval) | ✅ | [Emoji](https://github.com/flarum/emoji) | ✅ | [Facebook Login](https://github.com/flarum/auth-facebook) | ✅ |
+| [Flags](https://github.com/flarum/flags) | ✅ | [GitHub Login](https://github.com/flarum/auth-github) | ✅ | [Likes](https://github.com/flarum/likes) |  | [Lock](https://github.com/flarum/lock) |  |
 | [Markdown](https://github.com/flarum/markdown) |  | [Mentions](https://github.com/flarum/mentions) |  | [Pusher](https://github.com/flarum/pusher) |  | [Statistics](https://github.com/flarum/statistics) |  |
 | [Sticky](https://github.com/flarum/sticky) |  | [Subscriptions](https://github.com/flarum/subscriptions) |  | [Suspend](https://github.com/flarum/suspend) |  | [Tags](https://github.com/flarum/tags) |  |
 | [Twitter Login](https://github.com/flarum/auth-twitter) |  |

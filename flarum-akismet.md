@@ -1,3 +1,5 @@
+> 中文社区链接：https://iflarum.cn/1527
+
 # Akismet 垃圾留言过滤器
 
 Akismet 是 WordPress 较常用的一款防垃圾留言插件。这款强大的插件自 Flarum-beta 3 开始，由 Flarum 官方移植并维护。
@@ -46,4 +48,8 @@ composer require flarum/akismet
 这里邀请 @GuguguBear 登场举个栗子，绝无恶意！
 [/Aquote]
 
-Flarum [i18n 计划](https://github.com/Flarum-i18n/extension-release-posts-zh-cn)。
+### 链接
+- [GitHub 源码](https://github.com/flarum/akismet)
+- [报告问题](https://github.com/flarum/akismet/issues)
+
+加入 Flarum i18n 计划，[帮助我们改善此页](https://github.com/Flarum-i18n/extension-release-posts-zh-cn/edit/master/flarum-akismet.md)。
