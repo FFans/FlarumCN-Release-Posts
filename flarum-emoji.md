@@ -2,6 +2,8 @@
 
 # Emoji 表情插件
 
+[![GitHub license](https://img.shields.io/github/license/flarum/emoji?color=blue)](https://github.com/flarum/emoji/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/flarum/emoji.svg)](https://packagist.org/packages/flarum/emoji) [![Downloads](https://img.shields.io/packagist/dt/flarum/emoji.svg)](https://packagist.org/packages/flarum/emoji)
+
 Flarum 原生 Emoji 表情插件，在安装 Flarum 时已经附带，无需手动安装。
 
 开启后，可以通过在文本编辑器中键入英文冒号 `:` 或点击图标激活表情插入。

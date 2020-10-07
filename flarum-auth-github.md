@@ -2,6 +2,8 @@
 
 # GitHub 账号登录
 
+[![GitHub license](https://img.shields.io/github/license/flarum/auth-github?color=blue)](https://github.com/flarum/auth-github/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/flarum/auth-github.svg)](https://packagist.org/packages/flarum/auth-github) [![Downloads](https://img.shields.io/packagist/dt/flarum/auth-github.svg)](https://packagist.org/packages/flarum/auth-github)
+
 Flarum 原生插件，在安装 Flarum 时已经附带，无需手动安装。
 
 开启后，可以通过 GitHub 账号登录论坛。

@@ -2,6 +2,8 @@
 
 # Approval 审核插件
 
+[![GitHub license](https://img.shields.io/github/license/flarum/approval?color=blue)](https://github.com/flarum/approval/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/flarum/approval.svg)](https://packagist.org/packages/flarum/approval) [![Downloads](https://img.shields.io/packagist/dt/flarum/approval.svg)](https://packagist.org/packages/flarum/approval)
+
 Approval 是 Flarum 原生审核插件，在安装 Flarum 时已经附带，无需手动安装。开启插件后，可以设置用户发帖需要经过管理员的审核。
 
 ### 重新安装

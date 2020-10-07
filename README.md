@@ -10,17 +10,17 @@
 
 # 官方扩展
 
-<img src="https://img.shields.io/badge/进度-2%20/%2017-success.svg">
+<img src="https://img.shields.io/badge/进度-17%20/%2017-success.svg">
 
 <!-- flarum-extensions-list-start -->
 
 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Akismet](https://github.com/flarum/akismet) | ✅ | [Approval](https://github.com/flarum/approval) | ✅ | [Emoji](https://github.com/flarum/emoji) | ✅ | [Facebook Login](https://github.com/flarum/auth-facebook) | ✅ |
-| [Flags](https://github.com/flarum/flags) | ✅ | [GitHub Login](https://github.com/flarum/auth-github) | ✅ | [Likes](https://github.com/flarum/likes) |  | [Lock](https://github.com/flarum/lock) |  |
-| [Markdown](https://github.com/flarum/markdown) |  | [Mentions](https://github.com/flarum/mentions) |  | [Pusher](https://github.com/flarum/pusher) |  | [Statistics](https://github.com/flarum/statistics) |  |
-| [Sticky](https://github.com/flarum/sticky) |  | [Subscriptions](https://github.com/flarum/subscriptions) |  | [Suspend](https://github.com/flarum/suspend) |  | [Tags](https://github.com/flarum/tags) |  |
-| [Twitter Login](https://github.com/flarum/auth-twitter) |  |
+| [Flags](https://github.com/flarum/flags) | ✅ | [GitHub Login](https://github.com/flarum/auth-github) | ✅ | [Likes](https://github.com/flarum/likes) | ✅ | [Lock](https://github.com/flarum/lock) | ✅ |
+| [Markdown](https://github.com/flarum/markdown) | ✅ | [Mentions](https://github.com/flarum/mentions) | ✅ | [Pusher](https://github.com/flarum/pusher) | ✅ | [Statistics](https://github.com/flarum/statistics) | ✅ |
+| [Sticky](https://github.com/flarum/sticky) | ✅ | [Subscriptions](https://github.com/flarum/subscriptions) | ✅ | [Suspend](https://github.com/flarum/suspend) | ✅ | [Tags](https://github.com/flarum/tags) | ✅ |
+| [Twitter Login](https://github.com/flarum/auth-twitter) | ✅ |
 
 <!-- flarum-extensions-list-stop -->
 
@@ -32,9 +32,9 @@
 
 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 | 扩展 | 状态 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) |  | [Analytics](https://github.com/FriendsOfFlarum/analytics) |  | [Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) |  | [Best Answer](https://github.com/FriendsOfFlarum/best-answer) |  |
-| [Byōbu](https://github.com/FriendsOfFlarum/byobu) |  | [Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) |  | [Default Group](https://github.com/FriendsOfFlarum/default-group) |  | [Discord Login](https://github.com/FriendsOfFlarum/auth-discord) |  |
-| [Discussion Language](https://github.com/FriendsOfFlarum/discussion-language) |  | [Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) |  | [Drafts](https://github.com/FriendsOfFlarum/drafts) |  | [Filter](https://github.com/FriendsOfFlarum/filter) |  |
+| [Amazon Affiliation](https://github.com/FriendsOfFlarum/amazon-affiliation) | ✅ | [Analytics](https://github.com/FriendsOfFlarum/analytics) | ✅ | [Ban IPs](https://github.com/FriendsOfFlarum/ban-ips) | ✅ | [Best Answer](https://github.com/FriendsOfFlarum/best-answer) | ✅ |
+| [Byōbu](https://github.com/FriendsOfFlarum/byobu) | ✅ | [Custom Footer](https://github.com/FriendsOfFlarum/custom-footer) | ✅ | [Default Group](https://github.com/FriendsOfFlarum/default-group) | ✅ | [Discord Login](https://github.com/FriendsOfFlarum/auth-discord) | √ |
+| [Discussion Language](https://github.com/FriendsOfFlarum/discussion-language) | √ | [Disposable Emails](https://github.com/FriendsOfFlarum/disposable-emails) |  | [Drafts](https://github.com/FriendsOfFlarum/drafts) |  | [Filter](https://github.com/FriendsOfFlarum/filter) |  |
 | [Follow Tags](https://github.com/FriendsOfFlarum/follow-tags) |  | [Formatting](https://github.com/FriendsOfFlarum/formatting) |  | [Forum Statistics Widget](https://github.com/FriendsOfFlarum/forum-statistics-widget) |  | [FrontPage](https://github.com/FriendsOfFlarum/frontpage) |  |
 | [Gamification](https://github.com/FriendsOfFlarum/gamification) |  | [GeoIP](https://github.com/FriendsOfFlarum/geoip) |  | [GitHub Sponsors](https://github.com/FriendsOfFlarum/github-sponsors) |  | [GitLab Login](https://github.com/FriendsOfFlarum/auth-gitlab) |  |
 | [HTML Errors](https://github.com/FriendsOfFlarum/html-errors) |  | [Ignore Users](https://github.com/FriendsOfFlarum/ignore-users) |  | [Impersonate](https://github.com/FriendsOfFlarum/impersonate) |  | [Linguist](https://github.com/FriendsOfFlarum/linguist) |  |

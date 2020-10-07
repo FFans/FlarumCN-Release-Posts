@@ -2,6 +2,8 @@
 
 # Flags 举报插件
 
+[![GitHub license](https://img.shields.io/github/license/flarum/flags?color=blue)](https://github.com/flarum/flags/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/flarum/flags.svg)](https://packagist.org/packages/flarum/flags) [![Downloads](https://img.shields.io/packagist/dt/flarum/flags.svg)](https://packagist.org/packages/flarum/flags)
+
 Flarum 原生举报插件，在安装 Flarum 时已经附带，无需手动安装。
 
 开启后，可以举报违规帖子，向管理员送审。
